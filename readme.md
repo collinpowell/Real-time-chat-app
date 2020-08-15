@@ -1,4 +1,3 @@
-# My first Node.js application
+# My first Real Time Chat Application
 
-First nodejs application created via a brilliant tutorial series
-Encompasses security features, use of MVC architecture
+Socket.io, express
