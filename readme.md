@@ -1,3 +1,1 @@
-# My first Real Time Chat Application
-
-Socket.io, express
+# Real Time Chat Application implemented via Socket.io and Express
